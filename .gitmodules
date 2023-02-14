@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "StructuralDecompose"]
+	path = StructuralDecompose
+	url = https://github.com/allen-1242/structuraldecompose
+	shallow = true
+	registered = true
