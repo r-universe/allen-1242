@@ -2,5 +2,9 @@
   {
     "package": "StructuralDecompose",
     "oncran": true
+  },
+  {
+    "package": "TangledFeatures",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/allen-1242/structuraldecompose
 	shallow = true
 	registered = true
+[submodule "TangledFeatures"]
+	path = TangledFeatures
+	url = https://github.com/allen-1242/tangledfeatures
+	shallow = true
+	registered = true
