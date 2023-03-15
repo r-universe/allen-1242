@@ -1,10 +1,10 @@
 [
   {
-    "package": "TangledFeatures",
+    "package": "StructuralDecompose",
     "oncran": true
   },
   {
-    "package": "StructuralDecompose",
+    "package": "TangledFeatures",
     "oncran": true
   }
 ]
