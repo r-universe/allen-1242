@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "StructuralDecompose"]
 	path = StructuralDecompose
 	url = https://github.com/allen-1242/structuraldecompose
-	shallow = true
-	registered = true
 [submodule "TangledFeatures"]
 	path = TangledFeatures
 	url = https://github.com/allen-1242/tangledfeatures
-	shallow = true
-	registered = true
